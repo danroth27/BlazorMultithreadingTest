@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34701.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorMultithreadingTest", "BlazorMultithreadingTest\BlazorMultithreadingTest\BlazorMultithreadingTest.csproj", "{EBED56CA-B8C5-4EED-A725-B41DB79361A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorMultithreadingTest.Client", "BlazorMultithreadingTest\BlazorMultithreadingTest.Client\BlazorMultithreadingTest.Client.csproj", "{415681F2-A918-413A-86E4-3C32F9B2B367}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBED56CA-B8C5-4EED-A725-B41DB79361A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBED56CA-B8C5-4EED-A725-B41DB79361A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBED56CA-B8C5-4EED-A725-B41DB79361A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBED56CA-B8C5-4EED-A725-B41DB79361A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{415681F2-A918-413A-86E4-3C32F9B2B367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{415681F2-A918-413A-86E4-3C32F9B2B367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{415681F2-A918-413A-86E4-3C32F9B2B367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{415681F2-A918-413A-86E4-3C32F9B2B367}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C5AFC16-AB83-4110-AF62-904BE15FCA41}
+	EndGlobalSection
+EndGlobal
